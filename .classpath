@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Amine/Downloads/Compressed/jfreechart-1.0.17/jfreechart-1.0.17/lib/jfreechart-1.0.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amine/Downloads/itextpdf-5.3.4.jar/itextpdf-5.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amine/Downloads/document 14_11_2013/JTattoo-1.6.9.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/moTRech_lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/moTRech_lib/jakarta-poi-2.5.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/moTRech_lib/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/moTRech_lib/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/moTRech_lib/poi-excelant-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/moTRech_lib/poi-ooxml-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/moTRech_lib/poi-ooxml-schemas-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/moTRech_lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/java__1/Libreries/1/swingx-0.9.4.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/baboubi1_lib/jcommon-1.0.12.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA/baboubi1_lib/classes12.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
